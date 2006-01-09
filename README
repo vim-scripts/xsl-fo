@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1441
+
+syntax file for xsl-fo
+
+It colors all "valid" xsl-fo elements and attributes with a set of colors making it easy to spot invalid xsl-fo constructs.
+
+This syntax works well with other related syntaxs like xsl or xml.
+
+
